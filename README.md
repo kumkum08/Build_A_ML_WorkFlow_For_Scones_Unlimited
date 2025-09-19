@@ -54,8 +54,7 @@ The project aims to develop an image classification Machine Learning Model using
 
 #### 3.2.2. Step Function Graph
 
-![Step Functions Graph](img/step-function-graph.PNG)
-
+![Step Functions Graph](img/stepfunctions_graph.png)
 #### 3.2.3. Step Function Output
 
 ![Step Function Output](images/Step-Function-Workflow-Working-Output-Example-1.PNG)
