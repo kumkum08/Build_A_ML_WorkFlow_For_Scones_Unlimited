@@ -82,12 +82,26 @@ filterthresh.py
 
 Filters predictions based on a confidence threshold, passing only reliable inferences forward.
 
-🔹 5.2 Step Functions Workflow
-🛠 Execution Flow
+### 🔹 5.2 Step Functions Workflow  
 
-📊 Step Function Graph
+#### 🛠 Execution Flow  
+<p align="center">
+  <img src="img/executionofstepfunction.png" width="600"/><br>
+  <em>Execution Flow of the Step Function</em>
+</p>
 
-✅ Successful Run
+#### 📊 Step Function Graph  
+<p align="center">
+  <img src="img/stepfunctions_graph.png" width="600"/><br>
+  <em>Step Function Graph</em>
+</p>
+
+#### ✅ Successful Run  
+<p align="center">
+  <img src="img/succededstepfunction.png" width="600"/><br>
+  <em>Step Function Successfully Executed</em>
+</p>
+
 
 🎯 6. Key Learnings
 
